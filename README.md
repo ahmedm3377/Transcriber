@@ -1,4 +1,4 @@
-## Try Whisper
+## Audio Transcription
 
 FastAPI service and a small CLI example for transcribing audio with `faster-whisper`.
 
