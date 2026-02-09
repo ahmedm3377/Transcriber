@@ -27,7 +27,6 @@ If you use `pip`:
 pip install -r requirements.txt
 ```
 
-> Note: A `requirements.txt` file is not included. You can install directly from `pyproject.toml` or export one with your preferred tool.
 
 ### Run the API Server
 ```bash
